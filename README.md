@@ -1,2 +1,3 @@
-# odin-recipes
-Some of my favourite recipes not on the table but on websites so make it and tell me.
+# Odin Recipes(Recipes Website)
+Live site: https://sushantspatil.github.io/odin-recipes/
+First assignment towards the Odin Project.
